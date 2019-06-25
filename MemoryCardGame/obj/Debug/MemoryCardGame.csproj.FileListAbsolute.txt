@@ -1,0 +1,10 @@
+D:\vs2018\MemoryCardGame\MemoryCardGame\bin\Debug\MemoryCardGame.exe.config
+D:\vs2018\MemoryCardGame\MemoryCardGame\bin\Debug\MemoryCardGame.exe
+D:\vs2018\MemoryCardGame\MemoryCardGame\bin\Debug\MemoryCardGame.pdb
+D:\vs2018\MemoryCardGame\MemoryCardGame\obj\Debug\MemoryCardGame.Form1.resources
+D:\vs2018\MemoryCardGame\MemoryCardGame\obj\Debug\MemoryCardGame.Properties.Resources.resources
+D:\vs2018\MemoryCardGame\MemoryCardGame\obj\Debug\MemoryCardGame.csproj.GenerateResource.cache
+D:\vs2018\MemoryCardGame\MemoryCardGame\obj\Debug\MemoryCardGame.csproj.CoreCompileInputs.cache
+D:\vs2018\MemoryCardGame\MemoryCardGame\obj\Debug\MemoryCardGame.exe
+D:\vs2018\MemoryCardGame\MemoryCardGame\obj\Debug\MemoryCardGame.pdb
+D:\vs2018\MemoryCardGame\MemoryCardGame\obj\Debug\MemoryCardGame.csprojAssemblyReference.cache
